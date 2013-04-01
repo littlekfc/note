@@ -1,4 +1,4 @@
 note
 ====
 
-littlekfc's note here.It's private.
+littlekfc's note here.
